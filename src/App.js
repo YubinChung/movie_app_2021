@@ -79,7 +79,7 @@ class App extends React.Component {
     //const movies = await axios.get("http://yts-proxy.now.sh/list_movies.json");
     // movies.data.data.movies => NOT SEXY
 
-    const {data: { data: {movies}}} = await axios.get("http://yts-proxy.now.sh/list_movies.json?sort_by=rating"); 
+    const {data: { data: {movies}}} = await axios.get("https://yts-proxy.now.sh/list_movies.json?sort_by=rating"); 
     // console.log(movies)
 
     // this.state.setState({ movies: movies}) NOT SEXY
