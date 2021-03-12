@@ -2,6 +2,7 @@
   "name": "movie_app_2021",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yubinchung.github.io/movie_app_2021/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -36,7 +37,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://YubinChung.github.io/movie_app_2021/"
+    ]
   }
 }
