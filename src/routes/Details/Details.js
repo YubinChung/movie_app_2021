@@ -12,7 +12,6 @@ class Details extends React.Component{
   }
   render(){
     const { location } = this.props;
-    console.log(location.state);
     return (
       <div className="movie__details_wrap">
         <div>
