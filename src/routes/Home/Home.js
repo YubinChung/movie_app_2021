@@ -61,7 +61,7 @@ class Home extends React.Component {
   //       <button onClick={this.minus}>Minus</button>
   //     </div>)
   // }
-}
+} 
 
 
 export default Home;
